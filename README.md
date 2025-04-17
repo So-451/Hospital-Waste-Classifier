@@ -1,4 +1,4 @@
-#Hospital Waste Classifier
+
 To run locally
 Download Zip file
 
